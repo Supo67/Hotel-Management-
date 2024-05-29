@@ -1,1 +1,1 @@
-# Hotel-Management-Syatem.
+# Hotel-Management-System.
